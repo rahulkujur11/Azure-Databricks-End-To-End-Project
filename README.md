@@ -1,7 +1,38 @@
-# Azure-Databricks-End-To-End-Project
-I built a complete Data Engineering project leveraging powerful tools like Azure Databricks, Delta Live Tables, Spark Streaming, and PySpark. The project dives into real-world use cases, including Dimensional Data Modeling and managing Slowly Changing Dimensions (SCDs) within Databricks.
+🔥 Azure Databricks End-to-End Project
 
+📚 Overview
+This is a comprehensive data engineering pipeline built using Azure Databricks, Delta Lake, and PySpark. It demonstrates real-world data transformation scenarios, including Slowly Changing Dimensions (SCD) management and star schema modeling. Ideal for learning or showcasing advanced data engineering workflows on the cloud.
+
+🧰 Tech Stack
+List the major technologies and tools involved:
+✅ Azure Databricks
+✅ Delta Lake Gen2
+✅ Delta Live Tables (DLT)
+✅ PySpark
+✅ Azure Data Lake Storage
+✅ Power BI
+✅ Security/Access Management
+
+📊 Architecture Diagram
 ![image](https://github.com/user-attachments/assets/91f11a8e-79a8-4a7b-af8a-1e40a3fe33c5)
+
+⚙️ Project Workflow
+✅ Data Ingestion from Azure/GitHub secured via role-based access.
+✅ ETL Process using Databricks and Delta Lake Gen2.
+✅ Transformations via PySpark and Delta Live Tables.
+✅ Modeling into a Star Schema.
+✅ Data Load into a Warehouse.
+✅ Reporting Layer using Power BI.
+
+🔍 Key Concepts Implemented
+✅ Dimensional Data Modeling
+✅ Slowly Changing Dimensions (SCD Type 1, 2, etc.)
+✅ Delta Lake Transactions
+✅ Streaming with Spark
+✅ CI/CD via GitHub
+
+
+📈 Power BI Dashboard
 
 
 
