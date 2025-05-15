@@ -14,7 +14,7 @@ List the major technologies and tools involved:
 ✅ Security/Access Management
 
 📊 Architecture Diagram
-![image](https://github.com/user-attachments/assets/91f11a8e-79a8-4a7b-af8a-1e40a3fe33c5)
+![image](https://github.com/user-attachments/assets/485c8964-e1a7-428c-bdb3-d2425b9a38cb)
 
 ⚙️ Project Workflow
 ✅ Data Ingestion from Azure/GitHub secured via role-based access.
