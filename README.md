@@ -20,7 +20,7 @@ This project demonstrates a complete real-time data engineering pipeline using *
 
 ## 🧱 Architecture
 
-![Architecture Diagram](https://github.com/user-attachments/assets/485c8964-e1a7-428c-bdb3-d2425b9a38cb)
+![Azure Project](https://github.com/user-attachments/assets/58d6a722-c7e1-4cbd-a661-267ba9bbe7b9)
 
 ---
 
