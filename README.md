@@ -14,12 +14,10 @@ List the major technologies and tools involved:
 ✅ Security/Access Management
 
 📊 Architecture Diagram
-![image](https://github.com/user-attachments/assets/485c8964-e1a7-428c-bdb3-d2425b9a38cb)
+![Azure Project](https://github.com/user-attachments/assets/67f42225-0c60-4eb4-8804-b707a5c1958b)
 
 📊 Databricks Pipeline
 ![Screenshot 2025-05-15 235856](https://github.com/user-attachments/assets/e65105ac-6ee9-4a9a-b130-cf519b7d3312)
-
-
 
 ⚙️ Project Workflow
 ✅ Data Ingestion from Azure/GitHub secured via role-based access.
@@ -35,7 +33,6 @@ List the major technologies and tools involved:
 ✅ Delta Lake Transactions
 ✅ Streaming with Spark
 ✅ CI/CD via GitHub
-
 
 📈 Power BI Dashboard
 
