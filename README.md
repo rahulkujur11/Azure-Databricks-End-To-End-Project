@@ -16,6 +16,10 @@ List the major technologies and tools involved:
 📊 Architecture Diagram
 ![image](https://github.com/user-attachments/assets/485c8964-e1a7-428c-bdb3-d2425b9a38cb)
 
+📊 Pipeline
+![Screenshot 2025-05-15 234040](https://github.com/user-attachments/assets/9064e1f2-161a-4358-b240-5020b6996fc3)
+
+
 ⚙️ Project Workflow
 ✅ Data Ingestion from Azure/GitHub secured via role-based access.
 ✅ ETL Process using Databricks and Delta Lake Gen2.
